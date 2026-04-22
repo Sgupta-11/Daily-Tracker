@@ -174,7 +174,7 @@ export default function App() {
 
   return (
     <div style={{
-      minHeight: "100vh", background: "#090909",
+      minHeight: "100vh", background: "#090909", margin: 0, padding: 0,
       color: "#f0f0f0", fontFamily: "'DM Sans', sans-serif", paddingBottom: 60,
     }}>
       <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
